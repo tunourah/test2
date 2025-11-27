@@ -2,3 +2,4 @@ This project aims to develop a Digital Communications Web Application that allow
 
 The project follows the Agile Methodology, and development is divided into Sprints with continuous delivery and testing. Each functionality is defined as a User Story, which is then broken down into Functional Requirements (FRs).
 # test2
+# test2
